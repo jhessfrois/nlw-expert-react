@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto foi desenvolvido uma plataforma de criação de notas por meio de gravação de aúdio, onde elas são automaticamente reconhecidas e convertidas em texto.
 
 ## 💻 Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/blogatinhos/)
+[🔗 Clique aqui para acessar](https://nlw-expert-react-csuxduly6-jhessfrois.vercel.app/)
 
 
 ## 📝 Licença
