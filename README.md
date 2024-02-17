@@ -27,19 +27,23 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha React.js.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- React.js
-- Tailwind CSS
-- Vite
-- API Speech Recognition
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
 ## 💻 Projeto
 
-Nesse projeto foi desenvolvido uma plataforma de criação de notas por meio de gravação de aúdio, onde elas são automaticamente reconhecidas e convertidas em texto.
+Nesse projeto foi desenvolvido uma plataforma de criação de notas por meio de gravação de aúdio, onde elas são automaticamente reconhecidas e convertidas em texto utilizando a API Speech Recognition.
 
 ## 💻 Github Pages
 [🔗 Clique aqui para acessar](https://nlw-expert-react-csuxduly6-jhessfrois.vercel.app/)
 
+## **🤍 Contato**
+
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/jhessfrois.tech)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/jhessfrois/)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](jhessfsantos@gmail.com)
 
 ## 📝 Licença
 
