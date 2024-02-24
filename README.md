@@ -23,6 +23,8 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha React.js.
   <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/oS5SpvE.jpeg" width="80%">
 </p>
 
+> Projeto desenvolvido entre os dias 05/02 e 08/02 de 2024
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
